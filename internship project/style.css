@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.heading h1 {
+	position: absolute;
+	font-size: 70px;
+	top: 60%;
+	left: 30%;
+	color: rgb(53, 45, 45);
+
+	text-decoration: underline;
+	padding: 20px;
+	font-weight: 200px;
+	word-spacing: 8px;
+	font-family: "Girassol", cursive;
+}
+.heading img {
+	position: relative;
+	left: 40%;
+	/* padding: 20px; */
+	/* border: 1px solid black; */
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.heading #b1 {
+	width: 200px;
+	padding: 20px;
+	position: relative;
+	left: 45%;
+	top: 80px;
+}
+.heading #b2 {
+	padding: 20px;
+	width: 200px;
+	position: relative;
+	left: 45%;
+	top: 70px;
+}
+
+.container h1 {
+	position: relative;
+	left: 35%;
+}
